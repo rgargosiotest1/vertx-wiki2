@@ -32,7 +32,7 @@ public class MainVerticle extends AbstractVerticle {
     private static final String EMPTY_PAGE_MARKDOWN =
       "# A new page\n" +
       "\n" +
-      "Feel-free to write in Markdown!~\n";
+      "Feel-free to write in Markdown!!!!!!!!!!!!!!!!!!!!~\n";
 
     @Override
     public void start(Future<Void> startFuture) {
